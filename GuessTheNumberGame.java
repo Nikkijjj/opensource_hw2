@@ -9,7 +9,7 @@ public class GuessTheNumberGame {
         int numberOfTries = 0;
         boolean hasGuessedCorrectly = false;
 
-        System.out.println("欢迎来到猜数字游戏！");
+        System.out.println("Welcome to Guess The Number Game!");
         System.out.println("我已经选好了一个 1 到 100 之间的数字。你能猜到它是什么吗？");
 
         // 游戏主循环
