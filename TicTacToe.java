@@ -10,7 +10,7 @@ public class TicTacToe {
             playerMove();
             if (isWinner()) {
                 printBoard();
-                System.out.println("恭喜！玩家 " + currentPlayer + " 获胜！");
+                System.out.println("恭喜您！" + currentPlayer + " 获胜！");
                 break;
             }
             if (isBoardFull()) {
